@@ -1,5 +1,0 @@
-{{#user}
-Name: ANANYA
-Skills: HTML, CSS, JS, Next.js
-Email: ananyadiwakar205@gmail.com
-{{/user}}
